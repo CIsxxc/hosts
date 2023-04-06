@@ -1,0 +1,9 @@
+! Title: CIsxxc - Blocklist
+! Homepage: https://github.com/CIsxxc/hosts/blacklist
+! Description: Adguard home blacklist
+! Version: 20230406
+
+||ar.prd.content.itv.com
+||epg.prod.gb.dmdsdp.com	
+||cpt.itv.com
+||toots-a.akamaihd.net
