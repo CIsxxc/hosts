@@ -3,6 +3,7 @@
 ! Description: Adguard home blacklist
 ! Version: 20230406
 
+# ITVX ads
 ||ar.prd.content.itv.com
 ||epg.prod.gb.dmdsdp.com	
 ||cpt.itv.com
