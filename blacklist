@@ -26,3 +26,14 @@
 ||use.adserver.snapads.com
 ||snapads.com
 ||us-east1-aws.api.snapchat.com
+
+# Yandex missed
+||appmetrica.yandex.ru
+
+# Apple Ad tracking
+||tr.iadsdk.apple.com
+||iadsdk.apple.com
+
+# Amazon AWS
+||analyticsengine.s3.amazonaws.com
+||analytics.s3.amazonaws.com
